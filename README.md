@@ -1,0 +1,1 @@
+# ServiceNow-widget-editor-macros
